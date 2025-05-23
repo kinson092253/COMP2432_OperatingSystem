@@ -1,0 +1,46 @@
+addParking -member_A 2025-05-10 09:00 6.0 
+addReservation -member_A 2025-05-12 12:00 4.0 battery cable
+addEvent -member_A 2025-05-15 09:00 3.0 locker umbrella
+
+addReservation -member_B 2025-05-14 08:00 3.0 battery cable
+addReservation -member_B 2025-05-15 12:00 4.0 battery cable
+bookEssentials -member_B 2025-05-15 13:00 2.0 battery
+addEvent -member_B 2025-05-16 10:00 5.0  locker umbrella
+
+addParking -member_A 2025-05-16 09:00 3.0 
+addReservation -member_A 2025-05-17 18:00 3.0 battery cable
+addEvent -member_B 2025-05-13 13:00 2.0 locker umbrella
+
+addParking -member_C 2025-05-11 10:00 2.0 
+addParking -member_C 2025-05-12 14:00 3.0 
+addReservation -member_C 2025-05-13 09:00 2.0 battery cable
+addEvent -member_C 2025-05-14 11:00 4.0 valet inflation
+
+addReservation -member_D 2025-05-15 12:00 4.0 battery cable
+addEvent -member_E 2025-05-16 10:00 5.0 locker umbrella
+
+addParking -member_A 2025-05-10 10:00 4.0 
+addParking -member_A 2025-05-10 11:00 3.0 
+addParking -member_A 2025-05-10 12:00 2.0 
+addReservation -member_B 2025-05-14 09:00 2.0 battery cable
+addReservation -member_B 2025-05-14 10:00 1.0 battery cable
+bookEssentials -member_C 2025-05-14 09:00 2.0 battery
+addParking -member_A 2025-05-14 10:00 4.0 battery cable
+
+
+addParking -member_A 2025-05-17 08:00 2.0 
+addParking -member_B 2025-05-18 10:00 3.0 
+addParking -member_C 2025-05-19 09:00 4.0 
+addParking -member_D 2025-05-20 14:00 2.0 
+addReservation -member_E 2025-05-21 08:00 3.0 battery cable
+addReservation -member_A 2025-05-22 12:00 2.0 locker umbrella
+addEvent -member_B 2025-05-23 10:00 4.0 valet inflation
+addEvent -member_C 2025-05-24 15:00 3.0 battery cable
+bookEssentials -member_D 2025-05-25 09:00 2.0 locker umbrella
+bookEssentials -member_O 2025-05-26 14:00 1.0 valet inflation
+
+addParking -member_D 2025-05-27 09:00 6.0
+addParking -member_E 2025-05-28 10:00 4.0
+addReservation -member_A 2025-05-29 11:00 3.0 valet inflation
+addEvent -member_B 2025-05-30 12:00 2.0 battery cable
+bookEssentials -member_C 2025-05-31 13:00 1.0 locker umbrella
